@@ -50,13 +50,14 @@ To Access the Admin Dashboard click on the admin link at the top ,from there you
 
 ## Services Used
 The Smatech Store system consists of the following microservices:
-- **Eureka Server** – Service Discovery
-- **API Gateway** – Routing & Security
-- **Authentication Service** – User Management
-- **Store Service** – Product Management
-- **Payment Service** – Payment Processing
+- **Eureka Server** – Service Discovery (https://github.com/asheckn/smatech-service-registry)
+- **API Gateway** – Routing & Security (https://github.com/asheckn/smatech-api-gateway)
+- **Authentication Service** – User Management (https://github.com/asheckn/smatech-authentication-service)
+- **Store Service** – Product Management (https://github.com/asheckn/smatech-store-service)
+- **Payment Service** – Payment Processing (https://github.com/asheckn/smatech-payment-service)
 - **PostgreSQL Service** – Database
-- **Angular Frontend Service** – User Interface
+- **Angular Frontend Service** – User Interface  (https://github.com/asheckn/smatech-front)
+
 
 ## Test Payment Credentials
 For testing payments, use the following credentials:
