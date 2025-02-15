@@ -7,7 +7,7 @@ Ensure the target machine has Docker installed and running before proceeding wit
 
 ## Deployment Steps
 
-### 1. Create a Docker Network
+### 1. Create a Docker Network (optional if it does not run)
 To enable communication between services, create a Docker network named `smatech`:
 ```bash
 docker network create smatech
